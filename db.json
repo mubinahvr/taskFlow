@@ -1,0 +1,65 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Prepare project presentation",
+      "description": "Create slides for the weekly review",
+      "dueDate": "2026-09-03",
+      "priority": "High",
+      "category": "Work",
+      "status": "Completed",
+      "createdAt": "2026-09-03T08:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Practice TypeScript",
+      "description": "Review interfaces and generics",
+      "dueDate": "2026-09-04",
+      "priority": "Medium",
+      "category": "Learning",
+      "status": "Completed",
+      "createdAt": "2026-09-03T09:00:00.000Z"
+    },
+    {
+      "title": "prepare typescript notes",
+      "description": "Study and prepare for tpescript tutorial",
+      "dueDate": "2026-09-24",
+      "priority": "Medium",
+      "category": "Work",
+      "status": "Pending",
+      "createdAt": "2026-09-03T10:44:31.432Z",
+      "id": "e_3ZgVcpYwE"
+    },
+    {
+      "title": "learn angular",
+      "description": "learn angular",
+      "dueDate": "2026-09-03",
+      "priority": "High",
+      "category": "Work",
+      "status": "Pending",
+      "createdAt": "2026-09-03T11:38:39.323Z",
+      "id": "eQK-__uHQjc"
+    }
+  ],
+  "habits": [
+    {
+      "id": "1",
+      "name": "Read for 20 minutes",
+      "frequency": "Daily",
+      "completedToday": false
+    },
+    {
+      "id": "2",
+      "name": "Exercise",
+      "frequency": "Daily",
+      "completedToday": false
+    },
+    {
+      "id": "3",
+      "name": "Practice coding",
+      "frequency": "Weekdays",
+      "completedToday": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
